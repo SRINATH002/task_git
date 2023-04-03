@@ -2,9 +2,11 @@ public class Sri
 {
     
 public static void main(String[] args) {
-int a=10,b=20,c;
-c=a+b;
-System.out.println("c="+c);    
+int a=10,b=20,c=22,d;
+d=a+b;
+System.out.println("d="+d); 
+ d=c-b;
+    System.out.println("d="+d);
 }
 
 }
