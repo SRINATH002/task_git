@@ -2,7 +2,7 @@ public class Sri
 {
     
 public static void main(String[] args) {
-int a=10,b=20,c=22,d;
+int a=10,b=20,c=33,d;
 d=a+b;
 System.out.println("d="+d); 
  d=c-b;
